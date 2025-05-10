@@ -1,11 +1,11 @@
-*Hey there, Exponential team here. This document is a template for you to create the perfect Exponential showcase doc. We use this doc (among other things) to share your profile with partner startups. Feel free to tweak and make your own, this is just our base recommendation. You can check out a full example [here](https://github.com/gulipad/exponential)*
+*Hey there, Exponential team here. This document is a template for you to create the perfect Exponential showcase doc. We use this doc (among other things) to share your profile with partner startups. Feel free to tweak and make your own, this is just our base recommendation. You can check out a full example [here](https://github.com/gulipad/exponential).*
 
-**Important:** in order for the doc to automatically show up in your `signal.goexponential.org` profile page, you must place it in a `README.md` file under a repo called `exponential` within your Github profile.
+**⚠️ Important:** in order for the doc to automatically show up in your `signal.goexponential.org` profile page, you must place it in a `README.md` file under a repo called `exponential` within your Github profile.
 
 # [Your Name]
 
-**Best with:** <!-- e.g. TypeScript · React · Postgres -->  
-**Familiar with:** <!-- e.g. Python · Terraform · Figma -->
+**Best with:** *e.g. TypeScript · React · Postgres*  
+**Familiar with:** *e.g. Python · Terraform · Figma*
 
 > 💡 **TL;DR** – *In 3-5 concise sentences, pitch why you’re an outstanding Exponential Fellow—highlight your super-power, biggest wins and what drives you.*
 
