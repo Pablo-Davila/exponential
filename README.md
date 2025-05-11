@@ -2,8 +2,6 @@
 
 **⚠️ Important:** in order for the doc to automatically show up in your `signal.goexponential.org` profile page, you must place it in a `README.md` file under a repo called `exponential` within your Github profile.
 
-# [Your Name]
-
 **Best with:** *e.g. TypeScript · React · Postgres*  
 **Familiar with:** *e.g. Python · Terraform · Figma*
 
