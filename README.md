@@ -14,15 +14,17 @@
 
 
 ### Main achievements
- 
-  - [**Cofounder of the Algorithms Club at the University of Seville**](https://clubalgoritmiaus.es/)
-      - We give weekly lectures on competitive programming to university students
-      - In just two years we have trained 5 teams who made it to national finals
+
+  - [**Cofounder of the Algorithms Club at the University of Seville**](https://clubalgoritmiaus.es/):
+      - I have been the president from 2023 to 2025.
+      - We give weekly lectures on competitive programming to university students.
+      - In just two years we have trained 5 teams who made it to national finals.
       -	I have led two [coding competitions](https://clubalgoritmiaus.es/news/2025-02-09-complicaus-3/) with sponsors.
-      - I have lead [a series of tech talks](https://www.youtube.com/playlist?list=PLTaBKr0iDj5GvXLxawYYYmS-Y-2MgrJkK) (in Spanish) by external professionals (myself included)
-      - Award to the best initiative at the Computer Science Faculty in 2023-24
-  - [**I gave a TEDx talk**](https://www.youtube.com/watch?v=7v8GJ3pcFbg) (in Spanish) 
-  - **Over 14k downloads of [my Anki decks](https://ankiweb.net/shared/by-author/178243733)**: I use Anki flashcards to learn every day and people seem to like my content
+      - I have co-organized two regional competitions with participants from 7 different universities.
+      - I have led [a series of tech talks](https://www.youtube.com/playlist?list=PLTaBKr0iDj5GvXLxawYYYmS-Y-2MgrJkK) (in Spanish) by industry professionals.
+      - Award to the best initiative at the Computer Science Faculty in 2024.
+  - [**I gave a TEDx talk**](https://www.youtube.com/watch?v=7v8GJ3pcFbg) (in Spanish).
+  - **Over 14k downloads of [my Anki decks](https://ankiweb.net/shared/by-author/178243733)**: I use Anki flashcards to learn every day and people seem to like my content.
   - **Competitions**: I have won a few awards at Mathematics, Algorithms and innovation competitions. _Full list [here](https://pablodavila.eu/awards.html)_.
 
 
