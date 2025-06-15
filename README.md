@@ -78,4 +78,4 @@
   - 🧗‍♂️ I love rock climbing
   - 🍫 Chocolate enjoyer
 
-> 🎯 "What makes life mean something is purpose: A goal, the battle, the strugge. Even if you don’t win it."
+> 🎯 "What makes life mean something is purpose: A goal, the battle, the struggle. Even if you don’t win it."
